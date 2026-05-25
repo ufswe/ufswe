@@ -11,7 +11,7 @@ For nearly a decade, we have partnered with industry leaders to design, build, a
 Our versatile team consists of 10 to 15 undergraduate female engineers spanning multiple disciplines, allowing us to tackle full-stack engineering problems:
 
 * **Software Engineering:** Algorithm optimization, data visualization, web/mobile applications, and automation.
-* **Hardware & Prototyping:** CAD modeling, embedded systems, robotics, and mechanical design.
+* **Hardware & Prototyping:** CAD modeling, embedded systems, robotics, raspberry pi, arduino, and mechanical design.
 * **Analysis & Calculations:** Data-driven modeling, structural analysis, and performance optimization.
 
 ---
@@ -21,26 +21,32 @@ Our versatile team consists of 10 to 15 undergraduate female engineers spanning 
 Here is a look at some of our major past achievements and engineering solutions:
 
 ### 🛫 Flight Path Optimizer (2025-2026)
-> **An optimized scheduling and visualization tool for satellite operations.**
-* **The Solution:** Developed a software system to streamline satellite tasking and provide real-time visual tracking data, maximizing operational efficiency.
-* **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms` `Machine Learning`
+> **An increase in global air traffic has put extra strain on airlines and air traffic controllers. (Increased challenges balancing safety, efficiency, and sustainability)**
+* **The Solution:** A flight planning tool for pilots and consumers that incorporates collision risk, weather hazards, emissions, and travel time all at once!
+* **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms` `Machine Learning` `Raspberry Pi` `Arduino` `Circuits` `SolidWorks` 
 * **Link: *https://github.com/ufswe/teamtech25-26*
 
-### 🛰️ Satellite Scheduler & Visualizer (2024-2025)
-> **An optimized scheduling and visualization tool for satellite operations.**
-* **The Solution:** Developed a software system to streamline satellite tasking and provide real-time visual tracking data, maximizing operational efficiency.
-* **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms`
+### 🛰️🌐 Satellite Plotting & Visualizer (2024-2025)
+> **Investigate how to determine when/where multiple satellites around the Earth are visible to each other.**
+* **The Solution:** A web application that would plot satellites on a 3D map, display orbital paths, and calculate satellite to satellite visibility
+* **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms` `CessiumJS` `MongoDB` `React`
 * **Link: *https://github.com/ClaireW004/satellite-visualizer*
 
-### (2022-2023)
-> ** **
-* **The Solution:** 
-* **Focus:**
+### 🛰️📅 Improved Satellite Scheduler (2023-2024)
+> **Management and coordination of satellite operations amidst rapid expansion of the satellite constellation**
+* **The Solution: ** Optimization of satellites' limited resources by allocating them between various tasks and locations
+* **Focus:** `NSGA-II Algorithm` `Agile Methodology` `MongoDB` `TLE data` 
+* * **Link: *https://github.com/Lyra126/teamTech23-24*
+
+### 📡📅 Satellite Scheduler (2022-2023)
+> **Management and coordination of satellite operations amidst rapid expansion of the satellite constellation**
+* **The Solution:** Provide an effective, enhanced multi objective satellite scheduler to replace a trivial scheduler focused on a single access opportunity
+* **Focus:** `Greedy Algorithms` 
 * * **Link: *https://github.com/sswong0223/teamTech22-23*
 
-### 𖥂🎮 Urban Search & Rescue (SAR) Drone
-> **An autonomous aerial solution designed for emergency response and search operations.**
-* **The Solution:** Engineered a drone system paired with a flight path optimization algorithm to safely and quickly navigate dense urban environments during disaster recovery.
+### 𖥂🎮 Urban Search & Rescue (SAR) Drone (2021-2022)
+> **This technology provides automated post-disaster analysis to identify hazards and signs of life, significantly reducing the physical and mental strain on urban search and rescue teams.**
+* **The Solution:** This modular autonomous drone rapidly analyzes collapsed areas using plug-and-play sensors to detect signs of life, map high-risk hazards like fire, and adapt to diverse geological missions. Equipped with an integrated on-board data and communication system, it delivers post-flight interactive 3D heatmaps to pinpoint critical areas of interest for urban search and rescue teams.
 * **Focus:** `Robotics` `Path Planning` `Hardware Integration`
 * * **Link: **
 ---
