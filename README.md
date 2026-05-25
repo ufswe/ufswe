@@ -20,17 +20,23 @@ Our versatile team consists of 10 to 15 undergraduate female engineers spanning 
 
 Here is a look at some of our major past achievements and engineering solutions:
 
-### 🚀 Satellite Scheduler & Visualizer (2025-2026)
+### 🚀 Flight Path Optimizer (2025-2026)
 > **An optimized scheduling and visualization tool for satellite operations.**
 * **The Solution:** Developed a software system to streamline satellite tasking and provide real-time visual tracking data, maximizing operational efficiency.
 * **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms` `Machine Learning`
-* **Link: https://github.com/ufswe/teamtech25-26**
+* **Link: *https://github.com/ufswe/teamtech25-26*
 
-### 🛸 Urban Search & Rescue (SAR) Drone & Flight Path Optimizer
+### 🚀 Satellite Scheduler & Visualizer (2024-2025)
+> **An optimized scheduling and visualization tool for satellite operations.**
+* **The Solution:** Developed a software system to streamline satellite tasking and provide real-time visual tracking data, maximizing operational efficiency.
+* **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms`
+* **Link: *https://github.com/ClaireW004/satellite-visualizer*
+
+### 🛸 Urban Search & Rescue (SAR) Drone
 > **An autonomous aerial solution designed for emergency response and search operations.**
 * **The Solution:** Engineered a drone system paired with a flight path optimization algorithm to safely and quickly navigate dense urban environments during disaster recovery.
 * **Focus:** `Robotics` `Path Planning` `Hardware Integration`
-
+* * **Link: *https://github.com/ufswe/teamtech25-26*
 
 ---
 
@@ -48,5 +54,6 @@ We love collaborating with companies to tackle their unique engineering challeng
 ## 📫 Connect With Us
 * **Chairs:** Catherine Kennedy & Alyssa Griesman
 * **Organization:** University of Florida Society of Women Engineers (UF SWE)
-* **Inquiries:** [Insert Team Email Address]
-* **Website/LinkedIn:** [Insert Link to UF SWE or Team Page]
+* **Inquiries:** teamtech.swe.ufl@gmail.com
+* **Website:** https://uf.swe.org/
+* **LinkedIn:** https://www.linkedin.com/company/ufswe
