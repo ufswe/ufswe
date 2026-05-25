@@ -20,24 +20,29 @@ Our versatile team consists of 10 to 15 undergraduate female engineers spanning 
 
 Here is a look at some of our major past achievements and engineering solutions:
 
-### 🚀 Flight Path Optimizer (2025-2026)
+### 🛫 Flight Path Optimizer (2025-2026)
 > **An optimized scheduling and visualization tool for satellite operations.**
 * **The Solution:** Developed a software system to streamline satellite tasking and provide real-time visual tracking data, maximizing operational efficiency.
 * **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms` `Machine Learning`
 * **Link: *https://github.com/ufswe/teamtech25-26*
 
-### 🚀 Satellite Scheduler & Visualizer (2024-2025)
+### 🛰️ Satellite Scheduler & Visualizer (2024-2025)
 > **An optimized scheduling and visualization tool for satellite operations.**
 * **The Solution:** Developed a software system to streamline satellite tasking and provide real-time visual tracking data, maximizing operational efficiency.
 * **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms`
 * **Link: *https://github.com/ClaireW004/satellite-visualizer*
 
-### 🛸 Urban Search & Rescue (SAR) Drone
+### (2022-2023)
+> ** **
+* **The Solution:** 
+* **Focus:**
+* * **Link: *https://github.com/sswong0223/teamTech22-23*
+
+### 𖥂🎮 Urban Search & Rescue (SAR) Drone
 > **An autonomous aerial solution designed for emergency response and search operations.**
 * **The Solution:** Engineered a drone system paired with a flight path optimization algorithm to safely and quickly navigate dense urban environments during disaster recovery.
 * **Focus:** `Robotics` `Path Planning` `Hardware Integration`
-* * **Link: *https://github.com/ufswe/teamtech25-26*
-
+* * **Link: **
 ---
 
 ## 🤝 Partner With Us!
