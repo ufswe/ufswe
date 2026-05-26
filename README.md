@@ -30,7 +30,7 @@ Here is a look at some of our major past achievements and engineering solutions:
 > **Investigate how to determine when/where multiple satellites around the Earth are visible to each other.**
 * **The Solution:** A web application that would plot satellites on a 3D map, display orbital paths, and calculate satellite to satellite visibility
 * **Focus:** `Software Engineering` `Data Visualization` `Optimization Algorithms` `CessiumJS` `MongoDB` `React`
-* Link: *https://github.com/ClaireW004/satellite-visualizer
+* Link: https://github.com/ClaireW004/satellite-visualizer
 
 ### 🛰️📅 Improved Satellite Scheduler (2023-2024)
 > **Management and coordination of satellite operations amidst rapid expansion of the satellite constellation**
