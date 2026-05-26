@@ -49,6 +49,12 @@ Here is a look at some of our major past achievements and engineering solutions:
 * **The Solution:** This modular autonomous drone rapidly analyzes collapsed areas using plug-and-play sensors to detect signs of life, map high-risk hazards like fire, and adapt to diverse geological missions. Equipped with an integrated on-board data and communication system, it delivers post-flight interactive 3D heatmaps to pinpoint critical areas of interest for urban search and rescue teams.
 * **Focus:** `Robotics` `Path Planning` `Hardware Integration`
 * Link: N/A
+
+### Workplace Hazard Tracking & Geolocation System (SafeMap) (2020-2021)
+> **Industrial workplaces lack integrated, real-time tracking systems to protect personnel from physical and environmental hazards, leaving supervisors unable to quickly identify and warn employees entering high-risk zones.**
+* **The Solution:** This comprehensive platform pairs a MERN-stack web application with custom clip-on wearable devices to stream live worker geolocation data directly onto a supervisor's interactive hazard map. Combining hardware and software engineering, the system automatically pings and alerts personnel the moment they step into designated danger zones.
+* **Focus:** `Robotics` `Path Planning` `Hardware Integration.`
+* Link: https://github.com/robinfintz/TeamTech21_MERN
 ---
 
 ## 🤝 Partner With Us!
