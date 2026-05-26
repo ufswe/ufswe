@@ -6,7 +6,7 @@ For nearly a decade, we have partnered with industry leaders to design, build, a
 
 ---
 
-## 🛠️ Our Core Capabilities
+## Our Core Capabilities
 
 Our versatile team consists of 10 to 15 undergraduate female engineers spanning multiple disciplines, allowing us to tackle full-stack engineering problems:
 
@@ -16,7 +16,7 @@ Our versatile team consists of 10 to 15 undergraduate female engineers spanning 
 
 ---
 
-## 🗂️ Featured Projects & Legacy
+## Featured Projects & Legacy
 
 Here is a look at some of our major past achievements and engineering solutions:
 
@@ -50,14 +50,14 @@ Here is a look at some of our major past achievements and engineering solutions:
 * **Focus:** `Robotics` `Path Planning` `Hardware Integration`
 * Link: N/A
 
-### Workplace Hazard Tracking & Geolocation System (SafeMap) (2020-2021)
+### ⚠︎📍 Workplace Hazard Tracking & Geolocation System (SafeMap) (2020-2021)
 > **Industrial workplaces lack integrated, real-time tracking systems to protect personnel from physical and environmental hazards, leaving supervisors unable to quickly identify and warn employees entering high-risk zones.**
 * **The Solution:** This comprehensive platform pairs a MERN-stack web application with custom clip-on wearable devices to stream live worker geolocation data directly onto a supervisor's interactive hazard map. Combining hardware and software engineering, the system automatically pings and alerts personnel the moment they step into designated danger zones.
 * **Focus:** `Robotics` `Path Planning` `Hardware Integration.`
 * Link: https://github.com/robinfintz/TeamTech21_MERN
 ---
 
-## 🤝 Partner With Us!
+## Partner With Us!
 
 We love collaborating with companies to tackle their unique engineering challenges. Whether you have a specific bottleneck you need solved, or you want to co-design a brand-new project with us, we are ready to build it.
 
