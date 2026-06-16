@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=7D6890&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=%3E+Initializing+Team+Tech...;%3E+Loading%3A+10%2B+years+·+6+projects+·+15–20+engineers+·+5+domains;%3E+Status%3A+ACTIVE+██████████+100%25" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=7D6890&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=%3E+Initializing+Team+Tech...;%3E+Loading%3A+10%2B+years+·+6+projects+·+15–20+engineers+·+5+domains;%3E+Status%3A+ACTIVE+██████████+100%25)
 
 </div>
 
