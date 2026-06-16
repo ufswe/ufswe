@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 200' width='100%25'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%2334657F'/%3E%3Cstop offset='100%25' stop-color='%237D6890'/%3E%3C/linearGradient%3E%3Cstyle%3E.t%7Bfont-family:'Segoe UI',system-ui,sans-serif;font-weight:700;font-size:42px;fill:%23fff;text-anchor:middle%7D.d%7Bfont-family:'Segoe UI',system-ui,sans-serif;font-size:16px;fill:%23fff;text-anchor:middle;opacity:0.9%7D%3C/style%3E%3C/defs%3E%3Cpath fill='url(%23g)'%3E%3Canimate attributeName='d' dur='10s' repeatCount='indefinite' values='M0,0 L1200,0 L1200,140 C1000,190 800,110 600,150 C400,190 200,120 0,160 Z; M0,0 L1200,0 L1200,160 C1000,120 800,190 600,150 C400,110 200,190 0,140 Z; M0,0 L1200,0 L1200,140 C1000,190 800,110 600,150 C400,190 200,120 0,160 Z'/%3E%3C/path%3E%3Ctext x='600' y='75' class='t'%3ETeam Tech @ UF SWE%3C/text%3E%3Ctext x='600' y='115' class='d'%3EBuilding the Future, One Engineer at a Time 🐊%3C/text%3E%3C/svg%3E" width="100%" alt="Team Tech Moving Banner" />
+![Team Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=34657F,7D6890&height=200&section=header&text=Team%20Tech%20%40%20UF%20SWE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Engineer%20at%20a%20Time%20🐊&descAlignY=58&descSize=16&animation=twinkle&cache=ufsweteamtechfinal)
 
-<br/>
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_Website-uf.swe.org-5A5377?style=for-the-badge&logoColor=white)](https://uf.swe.org/)
@@ -273,6 +272,6 @@ We love collaborating with companies to tackle unique engineering challenges —
 
 <br/>
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' width='100%25'%3E%3Cdefs%3E%3ClinearGradient id='gf' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%237D6890'/%3E%3Cstop offset='100%25' stop-color='%2334657F'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='url(%23gf)'%3E%3Canimate attributeName='d' dur='10s' repeatCount='indefinite' values='M0,40 C200,80 400,10 600,50 C800,90 1000,10 1200,60 L1200,120 L0,120 Z; M0,60 C200,20 400,90 600,40 C800,10 1000,80 1200,40 L1200,120 L0,120 Z; M0,40 C200,80 400,10 600,50 C800,90 1000,10 1200,60 L1200,120 L0,120 Z'/%3E%3C/path%3E%3C/svg%3E" width="100%" alt="Team Tech Moving Footer" />
+![Team Tech Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=7D6890,34657F&height=120&section=footer&cache=ufsweteamtechfinal)
 
 </div>
