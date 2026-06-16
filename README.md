@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5A5377,7D6890&height=200&section=header&text=Team%20Tech%20%40%20UF%20SWE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Engineer%20at%20a%20Time%20🐊&descAlignY=58&descSize=16" width="100%"/>
+![Team Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=34657F,7D6890&height=200&section=header&text=Team%20Tech%20%40%20UF%20SWE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Engineer%20at%20a%20Time%20🐊&descAlignY=58&descSize=16&cache=sweetheme2026)
 
 [![Website](https://img.shields.io/badge/🌐_Website-uf.swe.org-5A5377?style=for-the-badge&logoColor=white)](https://uf.swe.org/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-UF%20SWE-7D6890?style=for-the-badge&logoColor=white)](https://www.linkedin.com/company/ufswe)
@@ -270,6 +270,6 @@ We love collaborating with companies to tackle unique engineering challenges —
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7D6890,5A5377&height=120&section=footer" width="100%"/>
+![Team Tech Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=7D6890,34657F&height=120&section=footer&cache=sweetheme2026)
 
 </div>
